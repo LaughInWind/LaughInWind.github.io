@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>阿里云Java开发规约证书认证</title>
+      <link href="/2020/07/13/%E9%98%BF%E9%87%8C%E4%BA%91Java%E5%BC%80%E5%8F%91%E8%A7%84%E7%BA%A6%E8%AF%81%E4%B9%A6%E8%AE%A4%E8%AF%81/"/>
+      <url>/2020/07/13/%E9%98%BF%E9%87%8C%E4%BA%91Java%E5%BC%80%E5%8F%91%E8%A7%84%E7%BA%A6%E8%AF%81%E4%B9%A6%E8%AE%A4%E8%AF%81/</url>
+      
+        <content type="html"><![CDATA[<h5 id="阿里巴巴编码规范（Java）"><a href="#阿里巴巴编码规范（Java）" class="headerlink" title="阿里巴巴编码规范（Java）"></a>阿里巴巴编码规范（Java）</h5><blockquote><p>经过对Java开发手册-华山版和泰山版认真的学习和实践，最终成功通过了阿里云的Java开发规范的认证</p></blockquote><a id="more"></a><p><img src="/2020/07/13/%E9%98%BF%E9%87%8C%E4%BA%91Java%E5%BC%80%E5%8F%91%E8%A7%84%E7%BA%A6%E8%AF%81%E4%B9%A6%E8%AE%A4%E8%AF%81/certificate.jpg" alt="阿里巴巴编码规范（Java）" title="阿里巴巴编码规范（Java）"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 职业技能证书 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>数学题解析(初三数学)</title>
+      <link href="/2020/07/07/%E6%95%B0%E5%AD%A6%E9%A2%98%E8%A7%A3%E6%9E%90-%E5%88%9D%E4%B8%89%E6%95%B0%E5%AD%A6/"/>
+      <url>/2020/07/07/%E6%95%B0%E5%AD%A6%E9%A2%98%E8%A7%A3%E6%9E%90-%E5%88%9D%E4%B8%89%E6%95%B0%E5%AD%A6/</url>
+      
+        <content type="html"><![CDATA[<h4 id="题目"><a href="#题目" class="headerlink" title="题目"></a>题目</h4><blockquote><p>初三数学题，知识点涉及：抛物线、斜线知识、相似三角形</p></blockquote><figure class="highlight angelscript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs angelscript">如图，在平面直角坐标系的坐标轴上有A,B,C三点，OA=BC=<span class="hljs-number">4</span>，以点A为顶点开口向下的抛物线经过B，C两点，P是抛物线第四象限上的动点，直线BP交直线AC于点M，交y轴于点D.点E和F分别是线段AD和AC上的动点，且AE=CF.<br><span class="hljs-number">1.</span> 求该抛物线解析式.<br><span class="hljs-number">2.</span> 若BD•BM = <span class="hljs-number">20</span>，求此时P点坐标.<br><span class="hljs-number">3.</span> 求BE+BF的最小值.<br></code></pre></td></tr></table></figure><a id="more"></a><p><img src="/2020/07/07/%E6%95%B0%E5%AD%A6%E9%A2%98%E8%A7%A3%E6%9E%90-%E5%88%9D%E4%B8%89%E6%95%B0%E5%AD%A6/question.jpg" alt="题目" title="初三数学题"></p><h5 id="答案解析"><a href="#答案解析" class="headerlink" title="答案解析"></a>答案解析</h5><blockquote><p>1、求该抛物线解析式</p></blockquote><p><img src="/2020/07/07/%E6%95%B0%E5%AD%A6%E9%A2%98%E8%A7%A3%E6%9E%90-%E5%88%9D%E4%B8%89%E6%95%B0%E5%AD%A6/answer1.jpg" alt="题一" title="题一"></p><blockquote><p>2、若BD•BM = 20，求此时P点坐标</p></blockquote><p><img src="/2020/07/07/%E6%95%B0%E5%AD%A6%E9%A2%98%E8%A7%A3%E6%9E%90-%E5%88%9D%E4%B8%89%E6%95%B0%E5%AD%A6/answer2.jpg" alt="题二" title="题二"></p><p><img src="/2020/07/07/%E6%95%B0%E5%AD%A6%E9%A2%98%E8%A7%A3%E6%9E%90-%E5%88%9D%E4%B8%89%E6%95%B0%E5%AD%A6/answer3.jpg" alt="题二" title="题二"></p><blockquote><p>3、求BE+BF的最小值</p></blockquote><p><img src="/2020/07/07/%E6%95%B0%E5%AD%A6%E9%A2%98%E8%A7%A3%E6%9E%90-%E5%88%9D%E4%B8%89%E6%95%B0%E5%AD%A6/answer4.jpg" alt="题三" title="题三"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 数学 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 解析 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Java开发</title>
+      <link href="/2020/07/06/Java%E5%BC%80%E5%8F%91/"/>
+      <url>/2020/07/06/Java%E5%BC%80%E5%8F%91/</url>
+      
+        <content type="html"><![CDATA[<h4 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h4><blockquote><p>Java是当前主流的web开发技术</p></blockquote><p>Java是一种可以跨平台的编译型语言</p><a id="more"></a><p>Java企业级开发的生态非常庞大，其中Spring生态成为了事实上的开发标准</p><p><img src="/2020/07/06/Java%E5%BC%80%E5%8F%91/java_logo.jpg" alt="Java"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> java </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2020/07/03/hello-world/"/>
+      <url>/2020/07/03/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">"My New Post"</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><a id="more"></a><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
